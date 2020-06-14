@@ -17,6 +17,7 @@ The refactor has been recorded and can be watched in [Youtube](https://youtu.be/
 ## Dependencies services tree
 In the example we used this service dependencies:
 
+![Texto alternativo](https://raw.githubusercontent.com/ddgranizo/dd-youtube-youtubeapirefactor/master/services_schema.png)
 
 ## Secrets
 It's necessary to add a Secrets.json file with the following structure
