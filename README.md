@@ -10,6 +10,7 @@ In the refactor we used the following practices:
 - Async/Await
 - Switch pattern for C# 8.0
 - Clean code
+- Delegation of responsibility  
 
 
 The refactor has been recorded and can be watched in [Youtube](https://youtu.be/zEwTR1VCFTo "Video en youtube")
